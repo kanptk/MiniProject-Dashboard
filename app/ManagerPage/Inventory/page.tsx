@@ -9,7 +9,7 @@ export default function Inventory_Dashboard() {
         title="Inventory Dashboard"
         width="1200"
         height="800"
-        src="https://app.powerbi.com/view?r=eyJrIjoiOTgxZDhmYmEtYjY2Mi00N2M3LWFkYTktNjVlY2VkODFhNGQ1IiwidCI6IjZmNDQzMmRjLTIwZDItNDQxZC1iMWRiLWFjMzM4MGJhNjMzZCIsImMiOjEwfQ%3D%3D"
+        src="https://app.powerbi.com/view?r=eyJrIjoiNzlhMzNkNjQtNTk5Ny00NmYwLWI2NDctNTkwZmJkOWU5ODBiIiwidCI6IjZmNDQzMmRjLTIwZDItNDQxZC1iMWRiLWFjMzM4MGJhNjMzZCIsImMiOjEwfQ%3D%3D"
         frameBorder="0"
         allowFullScreen
       ></iframe>

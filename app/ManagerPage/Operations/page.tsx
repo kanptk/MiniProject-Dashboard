@@ -9,7 +9,7 @@ export default function Operations_Dashboard() {
         title="Operations Dashboard"
         width="1200"
         height="800"
-        src="https://app.powerbi.com/view?r=eyJrIjoiYmVhY2IxNWMtN2EyYi00YTY4LTlmZjktN2IyNTE0ZWEyMjlhIiwidCI6IjZmNDQzMmRjLTIwZDItNDQxZC1iMWRiLWFjMzM4MGJhNjMzZCIsImMiOjEwfQ%3D%3D"
+        src="https://app.powerbi.com/view?r=eyJrIjoiMDBhNTgyZmEtNTc3Zi00MDhlLTljNGUtMWE1MGY0YzhmNmMwIiwidCI6IjZmNDQzMmRjLTIwZDItNDQxZC1iMWRiLWFjMzM4MGJhNjMzZCIsImMiOjEwfQ%3D%3D"
         frameBorder="0"
         allowFullScreen
       ></iframe>

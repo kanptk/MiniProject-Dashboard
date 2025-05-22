@@ -9,7 +9,7 @@ export default function Operation() {
         title="Operations Dashboard"
         width="1200"
         height="800"
-        src="https://app.powerbi.com/view?r=eyJrIjoiYmVhY2IxNWMtN2EyYi00YTY4LTlmZjktN2IyNTE0ZWEyMjlhIiwidCI6IjZmNDQzMmRjLTIwZDItNDQxZC1iMWRiLWFjMzM4MGJhNjMzZCIsImMiOjEwfQ%3D%3D"
+        src="https://app.powerbi.com/view?r=eyJrIjoiMDBhNTgyZmEtNTc3Zi00MDhlLTljNGUtMWE1MGY0YzhmNmMwIiwidCI6IjZmNDQzMmRjLTIwZDItNDQxZC1iMWRiLWFjMzM4MGJhNjMzZCIsImMiOjEwfQ%3D%3D"
         frameBorder="0"
         allowFullScreen
       ></iframe>
@@ -20,7 +20,7 @@ export default function Operation() {
       </Link>
       <Link href="/" className="absolute bottom-4 right-4">
         <button className="bg-gray-500 hover:bg-gray-700 text-white font-bold py-3 px-6 rounded text-lg">
-          Back to Login
+          Logout
         </button>
       </Link>
     </div>
